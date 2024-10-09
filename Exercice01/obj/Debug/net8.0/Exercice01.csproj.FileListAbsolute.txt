@@ -1,0 +1,14 @@
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\bin\Debug\net8.0\Exercice01.exe
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\bin\Debug\net8.0\Exercice01.deps.json
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\bin\Debug\net8.0\Exercice01.runtimeconfig.json
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\bin\Debug\net8.0\Exercice01.dll
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\bin\Debug\net8.0\Exercice01.pdb
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.AssemblyInfoInputs.cache
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.AssemblyInfo.cs
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.csproj.CoreCompileInputs.cache
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.dll
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\refint\Exercice01.dll
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.pdb
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\Exercice01.genruntimeconfig.cache
+C:\Users\d.clerckx\source\repos\Exercices\Exercice01\obj\Debug\net8.0\ref\Exercice01.dll

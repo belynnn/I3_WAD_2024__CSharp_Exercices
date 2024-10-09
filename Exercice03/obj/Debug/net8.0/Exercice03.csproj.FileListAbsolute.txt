@@ -1,0 +1,14 @@
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\bin\Debug\net8.0\Exercice03.exe
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\bin\Debug\net8.0\Exercice03.deps.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\bin\Debug\net8.0\Exercice03.runtimeconfig.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\bin\Debug\net8.0\Exercice03.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\bin\Debug\net8.0\Exercice03.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.AssemblyInfoInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.AssemblyInfo.cs
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.csproj.CoreCompileInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\refint\Exercice03.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\Exercice03.genruntimeconfig.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice03\obj\Debug\net8.0\ref\Exercice03.dll
