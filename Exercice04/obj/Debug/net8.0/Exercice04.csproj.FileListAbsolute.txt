@@ -12,3 +12,4 @@ C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice04\obj\Debug\net
 C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice04\obj\Debug\net8.0\Exercice04.pdb
 C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice04\obj\Debug\net8.0\Exercice04.genruntimeconfig.cache
 C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice04\obj\Debug\net8.0\ref\Exercice04.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice04\obj\Debug\net8.0\Exercice04.sourcelink.json

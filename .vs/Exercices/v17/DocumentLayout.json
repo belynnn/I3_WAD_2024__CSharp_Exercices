@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA02D6FF-D2F0-4AF5-9E85-54105BF7DFD9}|Exercice04\\Exercice04.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA02D6FF-D2F0-4AF5-9E85-54105BF7DFD9}|Exercice04\\Exercice04.csproj|solutionrelative:exercice04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{673B9B19-9224-4986-8C1F-38C422BB8DAB}|Exercice09\\Exercice09.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exercice09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673B9B19-9224-4986-8C1F-38C422BB8DAB}|Exercice09\\Exercice09.csproj|solutionrelative:exercice09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59128A7E-4DA2-4969-ACDF-C598FE9349A2}|Exercice07\\Exercice07.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exercice07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59128A7E-4DA2-4969-ACDF-C598FE9349A2}|Exercice07\\Exercice07.csproj|solutionrelative:exercice07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D22B843-9B92-431E-B11B-814363BEF600}|Exercice08\\Exercice08.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exercice08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D22B843-9B92-431E-B11B-814363BEF600}|Exercice08\\Exercice08.csproj|solutionrelative:exercice08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice04\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice04\\Program.cs",
-              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice04\\Program.cs",
-              "RelativeToolTip": "Exercice04\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAArwEAAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice09\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Program.cs",
+              "RelativeToolTip": "Exercice09\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:47:17.81Z",
+              "WhenOpened": "2024-10-10T13:48:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice08\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice08\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice08\\Program.cs",
+              "RelativeToolTip": "Exercice08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:31:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice07\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice07\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice07\\Program.cs",
+              "RelativeToolTip": "Exercice07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:17:15.782Z",
               "EditorCaption": ""
             }
           ]
