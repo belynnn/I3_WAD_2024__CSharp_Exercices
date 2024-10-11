@@ -10,10 +10,10 @@
 				Chaque table cite les calculs avec les multiplicateurs de 1 à 10.
 			*/
 
-			for (int i = 1; i < 10; i++)
+			for (short i = 1; i < 10; i++)
 			{
 				Console.WriteLine($"\n---------------\n| Table de {i}  |\n---------------");
-				for (int j = 0; j <= 10; j++)
+				for (short j = 0; j <= 10; j++)
 				{
 					Console.WriteLine($"| {j}{(j < 10 ? " " : "")} x {i} = {i * j}{((i * j) > 10 ? "" : " ")} |");
 				}
