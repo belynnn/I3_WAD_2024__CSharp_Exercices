@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice03\\Exercice03.csproj",
-      "projectName": "Exercice03",
-      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice03\\Exercice03.csproj",
+      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice03\\Exo03 - If.csproj",
+      "projectName": "Exo03 - If",
+      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice03\\Exo03 - If.csproj",
       "packagesPath": "C:\\Users\\d.clerckx\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice03\\obj\\",
       "projectStyle": "PackageReference",

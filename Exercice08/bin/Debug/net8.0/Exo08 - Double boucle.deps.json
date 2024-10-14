@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo08 - Double boucle/1.0.0": {
+        "runtime": {
+          "Exo08 - Double boucle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo08 - Double boucle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

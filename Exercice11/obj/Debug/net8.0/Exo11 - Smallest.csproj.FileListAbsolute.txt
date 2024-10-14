@@ -1,0 +1,15 @@
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\bin\Debug\net8.0\Exo11 - Smallest.exe
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\bin\Debug\net8.0\Exo11 - Smallest.deps.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\bin\Debug\net8.0\Exo11 - Smallest.runtimeconfig.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\bin\Debug\net8.0\Exo11 - Smallest.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\bin\Debug\net8.0\Exo11 - Smallest.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.AssemblyInfoInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.AssemblyInfo.cs
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.csproj.CoreCompileInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.sourcelink.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\refint\Exo11 - Smallest.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\Exo11 - Smallest.genruntimeconfig.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exercice11\obj\Debug\net8.0\ref\Exo11 - Smallest.dll

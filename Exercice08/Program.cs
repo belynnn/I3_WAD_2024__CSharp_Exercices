@@ -1,4 +1,4 @@
-﻿namespace Exercice08
+﻿namespace Exo08___Double_boucle
 {
 	internal class Program
 	{

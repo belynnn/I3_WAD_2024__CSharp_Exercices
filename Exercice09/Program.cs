@@ -1,4 +1,4 @@
-﻿namespace Exercice09
+﻿namespace Exo09___Star_Loop
 {
 	internal class Program
 	{

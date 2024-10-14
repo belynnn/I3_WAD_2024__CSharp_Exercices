@@ -1,4 +1,4 @@
-﻿namespace Exercice07
+﻿namespace Exo07___Boucle
 {
 	internal class Program
 	{

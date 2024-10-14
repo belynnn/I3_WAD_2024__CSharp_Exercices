@@ -1,0 +1,15 @@
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\bin\Debug\net8.0\Exo23 - Tableaux.exe
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\bin\Debug\net8.0\Exo23 - Tableaux.deps.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\bin\Debug\net8.0\Exo23 - Tableaux.runtimeconfig.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\bin\Debug\net8.0\Exo23 - Tableaux.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\bin\Debug\net8.0\Exo23 - Tableaux.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.AssemblyInfoInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.AssemblyInfo.cs
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.sourcelink.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\refint\Exo23 - Tableaux.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\Exo23 - Tableaux.genruntimeconfig.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo23 - Tableaux\obj\Debug\net8.0\ref\Exo23 - Tableaux.dll

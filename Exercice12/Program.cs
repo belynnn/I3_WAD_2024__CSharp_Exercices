@@ -1,4 +1,4 @@
-﻿namespace Exercice12
+﻿namespace Exo12___Repeat
 {
 	internal class Program
 	{
@@ -48,6 +48,7 @@
 			{
 				Console.Write($"{tirets}{espaces}");
 			}
+
 			/*
 			Console.OutputEncoding = System.Text.Encoding.Unicode;
 
@@ -56,8 +57,6 @@
 			bool isConverted = short.TryParse(nbEspace, out short parsedNbEspace);
 			string tiretMessage;
 			string espaceMessage;
-
-
 
 			if (!isConverted)
 			{

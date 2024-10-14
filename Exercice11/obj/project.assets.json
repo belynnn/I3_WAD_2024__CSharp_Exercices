@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice11\\Exercice11.csproj",
-      "projectName": "Exercice11",
-      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice11\\Exercice11.csproj",
+      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice11\\Exo11 - Smallest.csproj",
+      "projectName": "Exo11 - Smallest",
+      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice11\\Exo11 - Smallest.csproj",
       "packagesPath": "C:\\Users\\d.clerckx\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice11\\obj\\",
       "projectStyle": "PackageReference",

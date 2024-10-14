@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace Exercice11
+﻿namespace Exo11___Smallest
 {
 	internal class Program
 	{

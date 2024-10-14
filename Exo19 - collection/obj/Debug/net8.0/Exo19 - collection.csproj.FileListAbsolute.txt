@@ -1,0 +1,15 @@
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\bin\Debug\net8.0\Exo19 - collection.exe
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\bin\Debug\net8.0\Exo19 - collection.deps.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\bin\Debug\net8.0\Exo19 - collection.runtimeconfig.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\bin\Debug\net8.0\Exo19 - collection.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\bin\Debug\net8.0\Exo19 - collection.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.AssemblyInfoInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.AssemblyInfo.cs
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.csproj.CoreCompileInputs.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.sourcelink.json
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\refint\Exo19 - collection.dll
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.pdb
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\Exo19 - collection.genruntimeconfig.cache
+C:\Users\d.clerckx\source\repos\I3-WAD24-Base-Exercices\Exo19 - collection\obj\Debug\net8.0\ref\Exo19 - collection.dll

@@ -1,10 +1,11 @@
-﻿namespace Exercice01
+﻿namespace Exo01___Parse
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             // EXERCICE 1 - int.Parse
+			/*
             Console.WriteLine("Veuillez entrer le nombre 1 :\n");
             string userAnswer1 = Console.ReadLine();
 
@@ -15,6 +16,7 @@
             int userAnswerParsed2 = int.Parse(userAnswer2);
 
             Console.WriteLine($"{userAnswerParsed1} + {userAnswerParsed2} = {userAnswerParsed1 + userAnswerParsed2}");
+			*/
 
             // CORRECTION 1
             Console.WriteLine("Veuillez entrer le nombre 1 :\n");
@@ -28,6 +30,7 @@
 
 
             // EXERCICE 1 - int.Tryparse
+			/*
             Console.WriteLine("Veuillez entrer le nombre 1 :\n");
             string userAnswer3 = Console.ReadLine();
 
@@ -45,6 +48,7 @@
             Console.WriteLine($"Conversion réussie ? {isConverted2}.");
 
             Console.WriteLine($"{resultToConvert1} + {resultToConvert2} = {resultToConvert1 + resultToConvert2}");
+			*/
         }
     }
 }

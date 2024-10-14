@@ -1,4 +1,4 @@
-﻿namespace Exercice10
+﻿namespace Exo10___Plus_ou_Moins
 {
 	internal class Program
 	{

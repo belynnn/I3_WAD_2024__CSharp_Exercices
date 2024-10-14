@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD7E617-6C51-4D6E-ABED-2B6B292214E0}|Exercice12\\Exercice12.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exercice12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD7E617-6C51-4D6E-ABED-2B6B292214E0}|Exercice12\\Exercice12.csproj|solutionrelative:exercice12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7440EEC8-AECB-42F2-91D0-475454CF2A1D}|Exo25 - To Do List\\Exo25 - To Do List.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exo25 - to do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7440EEC8-AECB-42F2-91D0-475454CF2A1D}|Exo25 - To Do List\\Exo25 - To Do List.csproj|solutionrelative:exo25 - to do list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E293DC-95B7-4776-A629-AFAD506BC22F}|Exo24 - Tableaux\\Exo24 - Tableaux.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exo24 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E293DC-95B7-4776-A629-AFAD506BC22F}|Exo24 - Tableaux\\Exo24 - Tableaux.csproj|solutionrelative:exo24 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72437A29-3CF2-4AA3-A8F6-C3D8A4B9F5EA}|Exo23 - Tableaux\\Exo23 - Tableaux.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exo23 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72437A29-3CF2-4AA3-A8F6-C3D8A4B9F5EA}|Exo23 - Tableaux\\Exo23 - Tableaux.csproj|solutionrelative:exo23 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71EC9E5-8659-4F89-854C-C5B32F44A8FA}|Exo22 - Tableaux\\Exo22 - Tableaux.csproj|c:\\users\\d.clerckx\\source\\repos\\i3-wad24-base-exercices\\exo22 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71EC9E5-8659-4F89-854C-C5B32F44A8FA}|Exo22 - Tableaux\\Exo22 - Tableaux.csproj|solutionrelative:exo22 - tableaux\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice12\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice12\\Program.cs",
-              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice12\\Program.cs",
-              "RelativeToolTip": "Exercice12\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswDAAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo25 - To Do List\\Program.cs",
+              "RelativeDocumentMoniker": "Exo25 - To Do List\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo25 - To Do List\\Program.cs",
+              "RelativeToolTip": "Exo25 - To Do List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:17:49.609Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-14T12:36:13.701Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo24 - Tableaux\\Program.cs",
+              "RelativeDocumentMoniker": "Exo24 - Tableaux\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo24 - Tableaux\\Program.cs",
+              "RelativeToolTip": "Exo24 - Tableaux\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:16:23.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo23 - Tableaux\\Program.cs",
+              "RelativeDocumentMoniker": "Exo23 - Tableaux\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo23 - Tableaux\\Program.cs",
+              "RelativeToolTip": "Exo23 - Tableaux\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:44:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo22 - Tableaux\\Program.cs",
+              "RelativeDocumentMoniker": "Exo22 - Tableaux\\Program.cs",
+              "ToolTip": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exo22 - Tableaux\\Program.cs",
+              "RelativeToolTip": "Exo22 - Tableaux\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:50:21.362Z",
+              "EditorCaption": ""
             }
           ]
         }

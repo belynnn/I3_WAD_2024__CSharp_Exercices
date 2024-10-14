@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exo22 - Tableaux/1.0.0": {
+        "runtime": {
+          "Exo22 - Tableaux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo22 - Tableaux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

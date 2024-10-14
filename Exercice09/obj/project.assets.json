@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Exercice09.csproj",
-      "projectName": "Exercice09",
-      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Exercice09.csproj",
+      "projectUniqueName": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Exo09 - Star Loop.csproj",
+      "projectName": "Exo09 - Star Loop",
+      "projectPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\Exo09 - Star Loop.csproj",
       "packagesPath": "C:\\Users\\d.clerckx\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d.clerckx\\source\\repos\\I3-WAD24-Base-Exercices\\Exercice09\\obj\\",
       "projectStyle": "PackageReference",
